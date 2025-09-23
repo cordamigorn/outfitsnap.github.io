@@ -1,7 +1,7 @@
 # Privacy Policy for OutfitSnap
 
-**Effective Date:** 20 September 2025  
-**Last Updated:** 20 September 2025  
+**Effective Date:** 23 September 2025  
+**Last Updated:** 23 September 2025  
 
 ---
 
