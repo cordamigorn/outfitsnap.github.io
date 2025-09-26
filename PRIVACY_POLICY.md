@@ -65,9 +65,9 @@ We **do not sell** personal information. Legal disclosure only if required by la
 ---
 
 ## 5. Age Restriction
-- OutfitSnap is intended for **users aged 17 and older**.  
-- We do not knowingly allow users under 17 to use the App.  
-- If you are a parent/guardian and believe your child under 17 has used the App, contact us immediately at **outfitsnap.app@gmail.com**.  
+- OutfitSnap is intended for **users aged 9 and older**.  
+- We do not knowingly allow users under 9 to use the App.  
+- If you are a parent/guardian and believe your child under 9 has used the App, contact us immediately at **outfitsnap.app@gmail.com**.  
 
 ---
 
