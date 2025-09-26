@@ -20,8 +20,8 @@ By downloading, installing, or using the App, you agree to be bound by these Ter
 
 ## 2. Eligibility Requirements
 ### 2.1 Age Requirement
-You must be **17 years of age or older** to use OutfitSnap.  
-We do not knowingly allow users under 17 to use the App.  
+You must be **9 years of  or older** to use OutfitSnap.  
+We do not knowingly allow users under 9 to use the App.  
 
 ### 2.2 Account Registration
 To use certain features of the App, you must:  
@@ -32,7 +32,7 @@ To use certain features of the App, you must:
 
 ### 2.3 Prohibited Users
 You may not use the App if you:  
-- Are under 17 years of age  
+- Are under 9 years of   
 - Have been previously banned from the service  
 - Are prohibited by law from using the service  
 - Reside in a country where the service is not available  
@@ -50,7 +50,7 @@ You may not use the App if you:
 ## 4. Content Guidelines
 - Only upload **clothing/fashion items** you own or have rights to use  
 - Prohibited: illegal, offensive, explicit, or copyrighted content you do not own  
-- Images containing minors in any state of undress are strictly prohibited  
+- Ims containing minors in any state of undress are strictly prohibited  
 - We may remove violating content and suspend accounts  
 
 ---
@@ -87,7 +87,7 @@ You may not use the App if you:
 
 ## 9. Limitation of Liability
 - Maximum liability = fees paid in the last 12 months  
-- No liability for indirect or consequential damages  
+- No liability for indirect or consequential dams  
 
 ---
 
